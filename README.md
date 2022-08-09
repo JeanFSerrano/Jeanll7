@@ -13,7 +13,7 @@
   <img align="center" alt="Ariel-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
   
-## 
+<hr>
  
 <div> 
   
@@ -22,3 +22,5 @@
   <a href="https://www.instagram.com/jean_ll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+
+<hr>
