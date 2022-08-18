@@ -1,4 +1,3 @@
-## Olá!  
 #### Meu nome é Jean Leal. Sou Desenvolvedor Front-End!
 <div>
   <a href="https://github.com/Jeanll7">
